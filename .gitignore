@@ -1,0 +1,92 @@
+
+# eclipse
+.project
+.settings/
+.classpath
+.metadata/
+.gradle/
+gradle-app.setting
+gradle.properties
+
+# generated files
+generated/
+target/
+bin/
+*/bin/
+*.class
+obj/
+*/obj/
+Debug/
+*/Debug/
+Release/
+*/Release/
+*.orig
+build/
+*/build/
+
+# intellij
+*.iml
+*.ipr
+*.is
+.idea
+
+# vim?
+*~
+*.swp
+
+# visual studio & mplabs files
+*.user
+*.suo
+*.ncb
+*.o
+*.cof
+*.map
+*.hex
+*.err
+*.mdb
+
+*.opensdf
+*.sdf
+
+# ruby
+.bundle/
+.sass-cache
+
+# mac
+.DS_Store
+
+# gradle
+.gradletasknamecache
+
+# vagrant
+.vagrant
+Vagrantfile.user.json
+
+*/gwt-unitCache/
+
+# xamarin project
+*.userprefs
+
+# nuget
+packages/
+*.nupkg
+.nuget/
+
+# component sample
+*/sample/
+
+# component
+Components/
+
+# footspaclient test
+# FootspaClient.Test/
+
+# solution file
+#*.sln
+
+# android generate files
+**/Resource.Designer.cs
+**/Resources/Resource.Designer.cs
+
+# const file in server
+safetrust.access/Const/ServerConst.cs
